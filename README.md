@@ -26,9 +26,6 @@ This is the largest and most complex project I have done, architected as a monor
 - **[SBTE Result Viewer](https://github.com/Abhinav5383/sbte-result-viewer)**
     A tool built with `TypeScript` to automate the bulk downloading and parsing of SBTE diploma results. It extracts text from the PDF files, parses and saves it into a JSON file. The frontend part uses that to compile a standalone HTML page with all the JSON data embedded, gzipped + base64 encoded for small bundle size.
 
-- **[Cisco Automagic](https://github.com/Abhinav5383/cisco-automagic)**
-    A browser automation bot built with `TypeScript and Playwright` to automate the repetitive cisco coursework that my college forces to do for marks.
-
 
 ### Skills
 
